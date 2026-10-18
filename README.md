@@ -39,6 +39,21 @@
 </p>
 <!-- featured-bnbu:end -->
 
+<!-- featured-liaoxi:start -->
+<p align="center">
+  <a href="https://github.com/liyouran0820/liaoxi">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/project-liaoxi.mobile.svg" />
+      <img
+        width="100%"
+        alt="聊析 — 将微信合并记录整理为 Markdown；支持 macOS 与 Windows。点击查看项目。"
+        src="assets/project-liaoxi.svg"
+      />
+    </picture>
+  </a>
+</p>
+<!-- featured-liaoxi:end -->
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -62,8 +77,11 @@ README 维护：此文件用于 GitHub 个人主页；徽章区域只填写本�
 BNBU.ME 展示区仅新增一张官网入口卡片，不替换徽章、访问计数或贡献贪吃蛇。
 卡片远程引用 Rainchen537/Rainchen537 的公开 SVG，固定至 5cc73520584f53581b15732046e685ece1606325；保留原素材归属，不将其视为本仓库原创或重新授权。
 续写时在 featured-bnbu 标记内维护桌面和手机版图片，官网链接保持 https://bnbu.me/；升级引用版本前核对两张图片及可见文案。
+聊析展示区在 featured-liaoxi 标记内维护，点击进入 https://github.com/liyouran0820/liaoxi。
+assets/project-liaoxi.svg 与 assets/project-liaoxi.mobile.svg 为本仓库编写的桌面和手机版卡片；修改名称、简介、平台或配色时同步维护并预览两版。
+聊析卡片的 message-square-text 与 arrow-up-right 装饰图标来自 Lucide，适用下方保留的图标许可；消息图标仅作装饰，不代表项目原有品牌图标。
 徽章由 Shields.io 生成；Views 使用 Komarev，表示图片请求计数，不是独立访客人数。
-Lucide SVG 图标采用白色描边；图标来源：https://github.com/lucide-icons/lucide
+徽章中的 Lucide SVG 图标采用白色描边；图标来源：https://github.com/lucide-icons/lucide
 
 ISC License
 Copyright (c) 2026 Lucide Icons and Contributors
@@ -80,7 +98,7 @@ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-MIT License (Feather-derived database and monitor icons)
+MIT License (Feather-derived database, monitor, and arrow-up-right icons)
 Copyright (c) 2013-present Cole Bemis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
