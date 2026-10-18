@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋
+# Hi I am Newland 👋
 
 <!-- profile-badges:start -->
 <p align="center">
