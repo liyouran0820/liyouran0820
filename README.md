@@ -70,10 +70,33 @@
   />
 </picture>
 
+<!-- profile-metrics:start -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/dashboard/stats-mobile.svg" />
+    <img width="100%" src="assets/dashboard/stats.svg" alt="GitHub 公开贡献统计、评级与公开自有仓库语言占比" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/dashboard/activity-mobile.svg" />
+    <img width="100%" src="assets/dashboard/activity.svg" alt="最近 31 个完整自然日的 GitHub 公开可见贡献活动" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/dashboard/tools-mobile.svg" />
+    <img width="100%" src="assets/dashboard/tools.svg" alt="Languages and Tools" />
+  </picture>
+</p>
+<p align="center"><sub>统计每 6 小时更新 · <a href="METRICS.md">数据口径</a></sub></p>
+<!-- profile-metrics:end -->
+
 </div>
 
 <!--
 README 维护：此文件用于 GitHub 个人主页；徽章区域只填写本人确认或公开项目中已核实的信息。
+主页下方统计区在 profile-metrics 标记内维护；生成脚本、数据口径和验证方法见 METRICS.md。
 BNBU.ME 展示区仅新增一张官网入口卡片，不替换徽章、访问计数或贡献贪吃蛇。
 卡片远程引用 Rainchen537/Rainchen537 的公开 SVG，固定至 5cc73520584f53581b15732046e685ece1606325；保留原素材归属，不将其视为本仓库原创或重新授权。
 续写时在 featured-bnbu 标记内维护桌面和手机版图片，官网链接保持 https://bnbu.me/；升级引用版本前核对两张图片及可见文案。
