@@ -1,9 +1,9 @@
 {
   "user": "liyouran0820",
-  "as_of": "2026-11-23",
+  "as_of": "2026-11-24",
   "year": 2026,
   "stars": 17,
-  "commits": 132,
+  "commits": 135,
   "reviews": 0,
   "followers": 4,
   "prs": 2,
@@ -11,7 +11,7 @@
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 280421,
+      "bytes": 309964,
       "color": "#f1e05a"
     },
     {
@@ -21,18 +21,18 @@
     },
     {
       "name": "Python",
-      "bytes": 72691,
+      "bytes": 85011,
       "color": "#3572A5"
+    },
+    {
+      "name": "HTML",
+      "bytes": 59086,
+      "color": "#e34c26"
     },
     {
       "name": "GDScript",
       "bytes": 45391,
       "color": "#355570"
-    },
-    {
-      "name": "HTML",
-      "bytes": 8617,
-      "color": "#e34c26"
     },
     {
       "name": "Shell",
@@ -51,10 +51,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2026-10-23",
-      "count": 1
-    },
     {
       "date": "2026-10-24",
       "count": 0
@@ -174,6 +170,10 @@
     {
       "date": "2026-11-22",
       "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "count": 4
     }
   ]
 }
